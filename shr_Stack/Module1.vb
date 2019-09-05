@@ -1,12 +1,5 @@
 ﻿Module Module1
 
-    '*****************************************************************************
-    '***    BY MISTAKE I DID THE QUEUE CODE HERE AND THE STACK IN THE QUEUE    ***
-    '*****************************************************************************
-
-
-
-
     Const null As Integer = -1
     Public Structure Node
         Dim data As String
